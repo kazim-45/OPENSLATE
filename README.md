@@ -103,7 +103,7 @@ MIT — use it, fork it, ship it. Credit appreciated, not required.
 
 ## Author
 
-Built by **Kazim** — 17-year-old developer and filmmaker from Lahore, Pakistan.
+Built by **Kazim** — 18-year-old developer and filmmaker from Lahore, Pakistan.
 
 [GitHub](https://github.com/kazim-45) · [OpenSlate](https://weopenslate.vercel.app) · [OpenWrite](https://openwrite.vercel.app) · [OpenFrame](https://openframev1.vercel.app)
 
